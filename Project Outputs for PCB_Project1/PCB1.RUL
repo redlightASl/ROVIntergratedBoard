@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\ADproject\ADdocument\IntergratedBoard\PCB1.PcbDoc
+DRC Rules Export File for PCB: F:\Git_repository\ROVIntergratedBoard\PCB1.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=0.00
