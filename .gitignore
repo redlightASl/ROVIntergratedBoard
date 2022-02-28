@@ -1,0 +1,5 @@
+### AD outputs
+*.OutJob
+
+### Gerber files
+*.zip
